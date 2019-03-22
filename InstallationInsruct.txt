@@ -1,0 +1,16 @@
+Download and install the latest version of python form link- https://www.python.org/
+& That Link----https://packaging.python.org/tutorials/installing-packages/#install-pip-setuptools-and-wheel
+
+COMMAND TO INSTALL PIP--python -m pip install SomePackage OR python -m pip install --upgrade SomePackage
+//****************************************Python For Different Version***********************************************//
+py -2   -m pip install SomePackage  # default Python 2
+py -2.7 -m pip install SomePackage  # specifically Python 2.7
+py -3   -m pip install SomePackage  # default Python 3
+py -3.4 -m pip install SomePackage  # specifically Python 3.4
+//*******************************************************************************************************************//
+//**********************************************************************************************************//
+
+//**********************************************************************************************************//
+//**********************************************************************************************************//
+//**********************************************************************************************************//
+Python Doc to Development-https://docs.python.org/3/tutorial/index.html
