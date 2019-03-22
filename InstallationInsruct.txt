@@ -1,6 +1,10 @@
-Download and install the latest version of python form link- https://www.python.org/
-& That Link----https://packaging.python.org/tutorials/installing-packages/#install-pip-setuptools-and-wheel
-
+//******************************************************************************************************************//
+DOWNLOAD & INSTALL THE LATEST VERSION OF PYTHION :
+--- https://www.python.org/
+& THAT LINKS
+----https://packaging.python.org/tutorials/installing-packages/#install-pip-setuptools-and-wheel
+---https://docs.djangoproject.com/en/1.10/intro/install/
+//******************************************************************************************************************//
 COMMAND TO INSTALL PIP--python -m pip install SomePackage OR python -m pip install --upgrade SomePackage
 //****************************************Python For Different Version***********************************************//
 py -2   -m pip install SomePackage  # default Python 2
@@ -8,9 +12,31 @@ py -2.7 -m pip install SomePackage  # specifically Python 2.7
 py -3   -m pip install SomePackage  # default Python 3
 py -3.4 -m pip install SomePackage  # specifically Python 3.4
 //*******************************************************************************************************************//
-//**********************************************************************************************************//
+INSTALL VIRTUAL ENV :
+--https://github.com/hellowebbooks/hellowebapp/blob/master/installation-instructions/virtualenv-installation.md
+INSTALL DJANGO & DJANGO PROJECT :
+--https://github.com/hellowebbooks/hellowebapp/blob/master/installation-instructions/starting-your-project.md
+//*******************************************************************************************************************//
 
-//**********************************************************************************************************//
-//**********************************************************************************************************//
-//**********************************************************************************************************//
-Python Doc to Development-https://docs.python.org/3/tutorial/index.html
+//*******************************************************************************************************************//
+
+//*******************************************************************************************************************//
+
+//*******************************************************************************************************************//
+PYTHON DOCS:
+---Python Doc to Development-https://docs.python.org/3/tutorial/index.html
+//******************************************************************************************************************//
+RESOURCE LINKS TO STYDY FOR DEVELOPMENT :
+---https://discuss.hellowebapp.com/
+---https://github.com/hellowebbooks/hellowebapp/tree/master/additional-resources
+---https://github.com/hellowebbooks/hellowebapp-code
+---https://github.com/capside
+//*******************************************************************************************************************//
+GIT:
+---https://github.com/hellowebbooks/hellowebapp/tree/master/git-tips
+//******************************************************************************************************************//
+USEFULL FRAMEWORK FOR PYTHON : 
+---https://www.capside.com/labs/deploying-full-django-stack-with-docker-compose/
+
+PROJECT LINKS :
+---https://github.com/nikhilrane1992/django_registration_-_login_system
