@@ -6,5 +6,18 @@ INSTALLATION PYTHON & DJANGO ON WINDOWS:
 //*******************************************************************************************************//
 TUTORIALS FOR PROJECTS:
 ---https://www.youtube.com/watch?v=9Wbfk16jEOk
-
+Registration:
+--https://www.youtube.com/watch?v=q4jPR-M0TAQ
+Login/Logout:
+---https://www.youtube.com/watch?v=3aVqWaLjqS4
+User Profile/Picture:
+---https://www.youtube.com/watch?v=FdVuKt_iuSI
+Update:
+--https://www.youtube.com/watch?v=FdVuKt_iuSI
+Crud:
+---https://www.youtube.com/watch?v=-s7e_Fy6NRU
+Pagination:
+---https://www.youtube.com/watch?v=acOktTcTVEQ
+Email & Password:
+---https://www.youtube.com/watch?v=-tyBEsHSv7w
 
