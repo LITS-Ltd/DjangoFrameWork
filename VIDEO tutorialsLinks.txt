@@ -1,0 +1,10 @@
+INSTALLATION PYTHON & DJANGO ON WINDOWS:
+//******************************************************************************************************//
+---https://www.youtube.com/watch?v=3TqO5FfhV28
++
+---https://www.codingforentrepreneurs.com/blog/install-python-django-on-windows/
+//*******************************************************************************************************//
+TUTORIALS FOR PROJECTS:
+---https://www.youtube.com/watch?v=9Wbfk16jEOk
+
+
